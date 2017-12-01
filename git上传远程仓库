@@ -43,4 +43,10 @@ git push -u origin master
 
 git status
 
+
+1、先删除远程 Git 仓库
+
+ $ git remote rm origin
+Git 提示fatal: remote origin already exists 错误解决办法
+
 https://www.cnblogs.com/eedc/p/6168430.html
