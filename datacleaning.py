@@ -38,6 +38,7 @@ class Data(object):
 #公司数据
 class CompanyData(Data):
     pass
+
 #职位数据
 class JobData(Data):
     pass
