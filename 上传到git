@@ -1,4 +1,14 @@
  如何用命令将本地项目上传到git
+ 
+ 
+ 在安装了git for windows之后，个人总是忘记配置git config的命令，以此记录一下：
+
+配置用户名和邮箱的命令
+
+1 git config --global user.name "youname"
+2 git config --global user.email "youeamil@email.com"
+
+最后可以通过 git config -l 这个命令查看已配置的用户名和邮箱信息
 
 1、（先进入项目文件夹）通过命令 git init 把这个目录变成git可以管理的仓库
 
