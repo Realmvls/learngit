@@ -97,3 +97,5 @@ $ git branch [name]
 然后push
 
 $ git push -u origin [name]
+
+  ######################一个非常详细的教程 http://blog.jobbole.com/78960/########################
