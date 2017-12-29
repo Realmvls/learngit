@@ -98,4 +98,11 @@ $ git branch [name]
 
 $ git push -u origin [name]
 
+
+
+1、查看用户名和地址
+
+git config user.name
+git config user.email
+
   ######################一个非常详细的教程 http://blog.jobbole.com/78960/########################
