@@ -1,0 +1,14 @@
+代码迁移  
+A 文件夹下初始化git并上传到gitlab中的B仓库，gitlab重建以后A文件夹中的代码需要直接上传到新的仓库
+
+
+
+rm -rf .git
+git clone http://git.whome.cn/jia/data_clean_bkp.git
+ls
+mv data_clean_bkp/.git ./
+ls -a
+rmdir data_clean_bkp
+ls
+
+（未完成）要替换 .git文件
